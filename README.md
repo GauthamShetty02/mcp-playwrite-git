@@ -34,12 +34,12 @@ Use the `bitbucket_auth_pr` tool which will:
 {
   "tool": "bitbucket_auth_pr",
   "arguments": {
-    "workspace": "jcpstash",
-    "repo": "yoda-utilities",
-    "source": "feature/modify-package.json",
+    "workspace": "your-workspace",
+    "repo": "your-repository",
+    "source": "feature/new-feature",
     "dest": "main",
-    "title": "Update package configuration",
-    "body": "Modified package.json settings"
+    "title": "Add new feature",
+    "body": "Description of the changes made"
   }
 }
 ```
