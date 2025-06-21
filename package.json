@@ -1,6 +1,7 @@
 {
   "name": "git-mcp-server",
   "version": "1.0.0",
+  "description": "A server that integrates git operations with Model Context Protocol (MCP) and Playwright for automation and testing.",
   "type": "module",
   "main": "index.js",
   "bin": {
