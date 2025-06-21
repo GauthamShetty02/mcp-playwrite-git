@@ -53,22 +53,7 @@ Use the `bitbucket_auth_pr` tool which will:
 5. Automatically clicks Create PR button
 6. Browser stays open indefinitely
 
-## Examples
 
-### 1. Quick Test
-```bash
-node quick-test.js
-```
-
-### 2. Standalone PR Creation
-```bash
-node example.js
-```
-
-### 3. MCP Client Simulation
-```bash
-node mcp-client-example.js
-```
 
 ### 4. Full Authentication Test
 ```bash
